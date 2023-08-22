@@ -1,0 +1,6 @@
+package com.example.basketballscore;
+
+import androidx.lifecycle.ViewModel;
+
+public class MainViewModel extends ViewModel {
+}
